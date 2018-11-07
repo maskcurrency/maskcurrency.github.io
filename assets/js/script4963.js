@@ -206,14 +206,14 @@
                 }
             },
             color: {
-                value: "#00c0fa"
+                value: "#a34cef"
             },
             shape: {
                 type: "circle",
                 opacity: .2,
                 stroke: {
                     width: 0,
-                    color: "#2b56f5"
+                    color: "#701fc1"
                 },
                 polygon: {
                     nb_sides: 5
@@ -247,7 +247,7 @@
             line_linked: {
                 enable: !0,
                 distance: 150,
-                color: "#2b56f5",
+                color: "#712bf5",
                 opacity: .3,
                 width: 1.3
             },
