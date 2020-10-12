@@ -206,6 +206,7 @@
                 }
             },
             color: {
+//                 value: "#a34cef"
                 value: "#a34cef"
             },
             shape: {
@@ -213,7 +214,8 @@
                 opacity: .2,
                 stroke: {
                     width: 0,
-                    color: "#701fc1"
+//                     color: "#701fc1"
+                    color: "#fff567"
                 },
                 polygon: {
                     nb_sides: 5
