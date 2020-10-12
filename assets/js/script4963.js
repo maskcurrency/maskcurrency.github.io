@@ -247,7 +247,8 @@
             line_linked: {
                 enable: !0,
                 distance: 150,
-                color: "#712bf5",
+                // color: "#712bf5",
+                color: "#fff567",
                 opacity: .3,
                 width: 1.3
             },
