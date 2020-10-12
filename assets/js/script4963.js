@@ -207,7 +207,7 @@
             },
             color: {
 //                 value: "#a34cef"
-                value: "#a34cef"
+                value: "#fff567"
             },
             shape: {
                 type: "circle",
